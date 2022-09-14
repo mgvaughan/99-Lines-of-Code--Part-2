@@ -32,18 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
     })
-    let removediv = document.querySelectorAll('.friend');
-    
+    let removediv = document.querySelectorAll('.friend');   
     removediv.forEach(friend => {
         friend.remove();
     });
-
-    // let div = document.createElement('div');
-    // div.className('friend');
-    // let h3 = document.createElement('h3');
-    // let name = document.createTextNode(i);
-    // h3.appendChild(name);
-    // div.appendChild(h3)
-    // document.body.appendChild(div);
-
 })
