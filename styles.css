@@ -1,0 +1,15 @@
+body {
+    background: lightgoldenrodyellow;
+}
+
+h1 {
+    color: rgb(58, 116, 72);
+}
+
+.friend {
+    background-color: rgb(63, 147, 216);
+}
+
+h3 {
+    text-transform: uppercase;
+}
